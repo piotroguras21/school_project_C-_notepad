@@ -1,0 +1,14 @@
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.exe
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\bin\Debug\Notepad.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\User\AppData\Local\Temporary Projects\Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\User\Desktop\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\User\Desktop\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
+C:\Users\User\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\User\Desktop\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\User\Desktop\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\User\Desktop\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+C:\Users\User\Desktop\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.GenerateResource.Cache
